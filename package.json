@@ -1,0 +1,27 @@
+{
+  "name": "superxmlparser74",
+  "version": "1.0.0",
+  "description": "xml parser",
+  "main": "lib/superxmlparser74.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ru51a4/superxmlparser74.git"
+  },
+  "keywords": [
+    "xml",
+    "parser"
+  ],
+  "author": "ru51a4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ru51a4/superxmlparser74/issues"
+  },
+  "homepage": "https://github.com/ru51a4/superxmlparser74#readme"
+}
